@@ -1,5 +1,1 @@
-sample file
-git status
-
-third line 
-
+this s my file
